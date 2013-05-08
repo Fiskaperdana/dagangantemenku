@@ -14,4 +14,9 @@ Link https://github.com/GavickPro/Meet-GavernWP/tree/GavernWP-1.7
 Extention
 ----------
 [1] Woocommerce 2.0.8
+
 ++tambahan silahkan dilanjutkan++
+
+Fitur
+---------
+++Tulisdibawah ini++
